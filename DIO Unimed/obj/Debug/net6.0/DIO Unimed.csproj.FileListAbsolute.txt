@@ -1,0 +1,15 @@
+/Users/mariannabastos/Desktop/DIO Unimed/bin/Debug/net6.0/DIO Unimed
+/Users/mariannabastos/Desktop/DIO Unimed/bin/Debug/net6.0/DIO Unimed.deps.json
+/Users/mariannabastos/Desktop/DIO Unimed/bin/Debug/net6.0/DIO Unimed.runtimeconfig.json
+/Users/mariannabastos/Desktop/DIO Unimed/bin/Debug/net6.0/DIO Unimed.dll
+/Users/mariannabastos/Desktop/DIO Unimed/bin/Debug/net6.0/ref/DIO Unimed.dll
+/Users/mariannabastos/Desktop/DIO Unimed/bin/Debug/net6.0/DIO Unimed.pdb
+/Users/mariannabastos/Desktop/DIO Unimed/obj/Debug/net6.0/DIO Unimed.csproj.AssemblyReference.cache
+/Users/mariannabastos/Desktop/DIO Unimed/obj/Debug/net6.0/DIO Unimed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannabastos/Desktop/DIO Unimed/obj/Debug/net6.0/DIO Unimed.AssemblyInfoInputs.cache
+/Users/mariannabastos/Desktop/DIO Unimed/obj/Debug/net6.0/DIO Unimed.AssemblyInfo.cs
+/Users/mariannabastos/Desktop/DIO Unimed/obj/Debug/net6.0/DIO Unimed.csproj.CoreCompileInputs.cache
+/Users/mariannabastos/Desktop/DIO Unimed/obj/Debug/net6.0/DIO Unimed.dll
+/Users/mariannabastos/Desktop/DIO Unimed/obj/Debug/net6.0/ref/DIO Unimed.dll
+/Users/mariannabastos/Desktop/DIO Unimed/obj/Debug/net6.0/DIO Unimed.pdb
+/Users/mariannabastos/Desktop/DIO Unimed/obj/Debug/net6.0/DIO Unimed.genruntimeconfig.cache
